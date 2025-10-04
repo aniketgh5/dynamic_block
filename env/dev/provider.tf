@@ -11,7 +11,7 @@ provider "azurerm" {
   # Configuration options
   features {}
 
-  subscription_id = "30c669d0-afb4-45f6-a261-dd314a10bf69"
+  subscription_id = "xx"
 
   resource_provider_registrations = "none"
 }
